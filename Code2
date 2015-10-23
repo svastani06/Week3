@@ -1,0 +1,9 @@
+Enter file contents herer= float(input("Enter a magnitude"))
+if r>=8:
+    print ("Most structures fall")
+elif r>=7 and r<8:
+    print ("Many buildings considerably damaged, some colapse")
+elif r>=4.5 and r<6:
+    print ("Damage to poorly constructed buildings")
+elif r>=4.5:
+    print ("No destruction ofbuildings") 
